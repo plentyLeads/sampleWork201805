@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm navbar-dark fixed-top bg-dark">
+        <div class="container">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"></button>
+            @Html.ActionLink("plentyLeads GmbH", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            <div class="navbar-collapse collapse" id="navbarSupportedContent">
+                <ul class="nav navbar-nav mr-auto">
+                    <li class="nav-item">@Html.ActionLink("Startseite", "Index", "Home", new { @class = "nav-link" })</li>
+                    <li class="nav-item"><a href="https://plentyleads.de/kontakt/" id="contactLink" class="nav-link">Kontakt</a></li>
+                    <li class="nav-item">@Html.ActionLink("API", "Index", "Help", null, new { @class = "nav-link" })</li>
+                    <li class="nav-item">@Html.ActionLink("Arbeitsprobe", "Example", "Home", null, new { @class = "nav-link" })</li>
+                </ul>
+
+                @*@Html.Partial("_LoginPartial")
+                <ul class="nav navbar-nav navbar-right mr-auto">
+                    <li class="nav-item"><a href="/Account/Register" id="registerLink" class="nav-link">Registrieren</a></li>
+                    <li class="nav-item"><a href="/Account/Login" id="loginLink" class="nav-link">Anmelden</a></li>
+                </ul>*@
+
+            </div>
+        </div>
+    </nav>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - plentyLeads GmbH | Arbeitsprobe</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

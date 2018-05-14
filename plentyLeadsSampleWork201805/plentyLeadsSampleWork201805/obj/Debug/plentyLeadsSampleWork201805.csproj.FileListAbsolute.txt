@@ -1,0 +1,287 @@
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\ApplicationInsights.config
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\plentyLeadsSampleWork201805.dll.config
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\plentyLeadsSampleWork201805.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\plentyLeadsSampleWork201805.pdb
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\csc.exe
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\csc.exe.config
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\csc.rsp
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\csi.exe
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\csi.exe.config
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\csi.rsp
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.AppContext.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Collections.Immutable.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Console.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.IO.Compression.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.IO.FileSystem.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.IO.Pipes.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Reflection.Metadata.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Security.AccessControl.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Security.Claims.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Security.Principal.Windows.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.ValueTuple.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Xml.XPath.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\vbc.exe
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\vbc.exe.config
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\vbc.rsp
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\VBCSCompiler.exe
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\roslyn\VBCSCompiler.exe.config
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Antlr3.Runtime.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\EntityFramework.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\EntityFramework.SqlServer.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AI.Agent.Intercept.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AI.DependencyCollector.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AI.Web.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AI.WindowsServer.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.ApplicationInsights.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.Facebook.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.Google.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.Twitter.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Web.Infrastructure.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Newtonsoft.Json.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Owin.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Diagnostics.DiagnosticSource.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Net.Http.Formatting.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.Helpers.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.Http.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.Http.Owin.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.Http.WebHost.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.Mvc.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.Optimization.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.Razor.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.WebPages.Deployment.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.WebPages.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.WebPages.Razor.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\WebGrease.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Antlr3.Runtime.pdb
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\EntityFramework.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\EntityFramework.SqlServer.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AI.DependencyCollector.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AI.Web.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AI.WindowsServer.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.Facebook.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.Google.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.Twitter.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Newtonsoft.Json.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Diagnostics.DiagnosticSource.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Net.Http.Formatting.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.Helpers.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.Http.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.Http.Owin.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.Http.WebHost.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.Mvc.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.Razor.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.WebPages.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.WebPages.Deployment.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.WebPages.Razor.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\System.Web.Optimization.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\de\EntityFramework.resources.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\de\EntityFramework.SqlServer.resources.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\de\System.Net.Http.Formatting.resources.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\de\System.Web.Helpers.resources.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\de\System.Web.Http.resources.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\de\System.Web.Http.Owin.resources.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\de\System.Web.Http.WebHost.resources.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\de\System.Web.Mvc.resources.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\de\System.Web.Razor.resources.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\de\System.Web.WebPages.resources.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\de\System.Web.WebPages.Deployment.resources.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\de\System.Web.WebPages.Razor.resources.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\de\System.Web.Optimization.resources.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\de\Microsoft.AspNet.Identity.Core.resources.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\de\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\bin\de\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\obj\Debug\plentyLeadsSampleWork201805.csproj.CoreCompileInputs.cache
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\obj\Debug\plentyLeadsSampleWork201805.csproj.CopyComplete
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\obj\Debug\plentyLeadsSampleWork201805.dll
+C:\SoftDev\C#\plentyLeadsSampleWork201805\plentyLeadsSampleWork201805\obj\Debug\plentyLeadsSampleWork201805.pdb
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\ApplicationInsights.config
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\plentyLeadsSampleWork201805.dll.config
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\plentyLeadsSampleWork201805.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\plentyLeadsSampleWork201805.pdb
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\csc.exe
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\csc.exe.config
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\csc.rsp
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\csi.exe
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\csi.exe.config
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\csi.rsp
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.AppContext.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Console.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.IO.Compression.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Security.Claims.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.ValueTuple.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\vbc.exe
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\vbc.exe.config
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\vbc.rsp
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\VBCSCompiler.exe
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Antlr3.Runtime.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\EntityFramework.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\EntityFramework.SqlServer.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AI.Web.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Newtonsoft.Json.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Owin.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Net.Http.Formatting.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.Helpers.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.Http.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.Http.Owin.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.Http.WebHost.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.Mvc.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.Optimization.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.Razor.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.WebPages.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.WebPages.Razor.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\WebGrease.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Antlr3.Runtime.pdb
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\EntityFramework.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\EntityFramework.SqlServer.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AI.Web.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Newtonsoft.Json.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Net.Http.Formatting.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.Helpers.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.Http.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.Http.Owin.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.Http.WebHost.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.Mvc.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.Razor.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.WebPages.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.WebPages.Razor.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\System.Web.Optimization.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\de\EntityFramework.resources.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\de\EntityFramework.SqlServer.resources.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\de\System.Net.Http.Formatting.resources.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\de\System.Web.Helpers.resources.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\de\System.Web.Http.resources.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\de\System.Web.Http.Owin.resources.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\de\System.Web.Http.WebHost.resources.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\de\System.Web.Mvc.resources.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\de\System.Web.Razor.resources.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\de\System.Web.WebPages.resources.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\de\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\de\System.Web.WebPages.Razor.resources.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\de\System.Web.Optimization.resources.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\de\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\de\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\bin\de\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\obj\Debug\plentyLeadsSampleWork201805.csprojResolveAssemblyReference.cache
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\obj\Debug\plentyLeadsSampleWork201805.csproj.CoreCompileInputs.cache
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\obj\Debug\plentyLeadsSampleWork201805.csproj.CopyComplete
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\obj\Debug\plentyLeadsSampleWork201805.dll
+C:\Users\nadimo\Downloads\sampleWork201805-master (2)\sampleWork201805-master\plentyLeadsSampleWork201805NEU\plentyLeadsSampleWork201805\obj\Debug\plentyLeadsSampleWork201805.pdb

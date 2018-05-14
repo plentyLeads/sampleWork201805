@@ -1,0 +1,115 @@
+﻿
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid.min.css" />
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid-theme.min.css" />
+
+@{
+    ViewBag.Title = "Arbeitsprobe";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>@ViewBag.Title</h2>
+            <p>
+                Für deine Arbeitsprobe sollst du die nachfolgende Tabelle mit der Beispiel-API verbinden.
+                Wie du oben in der Navigation sicherlich bereits gemerkt hast, gibt es eine Verknüpfung zur automatisch generierten "API" Dokumentation.
+                <br /><br />
+                Bitte realisiere die <b>ausstehenden Änderungen</b> zur Anbindung an die Daten "SocialMediaChannels", hierbei soll das Ergebnis die CRUD (Create, Read, Update und Delete) Aktionen ausführen können.
+                Als Basis dient jsGrid (<a href="http://js-grid.com/docs/">Dokumentation</a>).
+                <br />
+                <br />
+                PS: Die 'DELETE' Aktion muss im C# Part und die 'UPDATE' Aktion im HTML/JavaScript Part programmiert werden.
+                Die Stellen sind jeweils mit 'ToDo: Arbeitsprobe' gekennzeichnet. Der von dir zu schreibende Code umfasst gerade einmal ca. 15 Code Zeilen.
+                <br />
+                Viel Erfolg! :)
+            </p>
+            <hr />
+            <h4>CRUD Tabelle</h4>
+            <div id="socialMediaChannels">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid.min.js"></script>
+    <script type="text/javascript">
+        var socialMediaChannelGrid = null;
+
+        $(document).ready(function () {
+            socialMediaChannelGrid = InitializeReplacecommentGrid();
+        });
+
+
+        function InitializeReplacecommentGrid() {
+            var grid = $("#socialMediaChannels").jsGrid({
+                width: "100%",
+                autoload: true,
+                selecting: true,
+                inserting: true,
+                editing: true,
+                loadMessage: "Bitte warten...",
+                noDataContent: "Keine Daten",
+                rowClick: function (args) {
+                    var row = this.rowByItem(args.item);
+                    row.toggleClass("highlight");
+                    var selectedItem = args.item;
+                },
+                rowDoubleClick: function (args) {
+                    grid.jsGrid("editItem", args.item);
+                },
+                controller: {
+                    loadData: function (filter) {
+                        var d = $.Deferred();
+                        $.ajax({
+                            type: "GET",
+                            url: "../api/SocialMediaChannels"
+                        }).done(function (response) {
+                            d.resolve(response.data);
+                            return;
+                        });
+                        return d.promise();
+                    },
+                    insertItem: function (item) {
+                        var d = $.Deferred();
+                        $.ajax({
+                            type: "POST",
+                            url: "../api/SocialMediaChannels",
+                            data: item
+                        }).done(function (updatedItem) {
+                            grid.insertFailed = !updatedItem.success;
+                            d.resolve(updatedItem.data);
+                            grid.jsGrid("clearInsert");
+                        }).fail(function (msg) {
+                            d.reject();
+                        });
+                        return d.promise();
+                    },
+                    updateItem: function (item) {
+                        /*
+                         * ToDo: Arbeitsprobe
+                         */
+                        alert("Hinweis: Ob Du wirklich das Updaten implementiert hast, siehst du, wenn die Werte auch nach Aktualisierung der Webseite verändert bleiben.")
+                    },
+                    deleteItem: function (item) {
+                        alert("Hinweis: Ob Du wirklich das Löschen implementiert hast, siehst du, wenn die Werte auch nach Aktualisierung der Webseite gelöscht bleiben.")
+                        return $.ajax({
+                            type: "DELETE",
+                            url: "../api/SocialMediaChannels/" + item.Id
+                        });
+                    }
+                },
+                fields: [
+                    { name: "Id", type: "number", width: 50, textField: "Id" },
+                    { name: "Name", type: "text", width: 200, textField: "Name" },
+                    { name: "URL", type: "text", width: 200, textField: "URL" },
+                    { type: "control" }
+                ]
+            });
+            return grid;
+        }
+    </script>
+}
